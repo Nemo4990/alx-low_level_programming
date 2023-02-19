@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main print ("with proper grammar, but the outcome is a piece of art,\n");
+ * main printf ("with proper grammar, but the outcome is a piece of art,\n");
  * Return: Always 0;
  *
  */
