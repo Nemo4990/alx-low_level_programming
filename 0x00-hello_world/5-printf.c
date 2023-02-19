@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main printf ("with proper grammar, but the outcome is a piece of art,\n");
- * Return: Always 0;
+ * main- printf "with proper grammar, but the outcome is a piece of art," with new line.
+ * Return: Always 0
  *
  */
 int main(void)
