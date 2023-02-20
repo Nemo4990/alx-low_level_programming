@@ -4,7 +4,7 @@
 /**
   *main - Entery
   *Description - to display if the number is posetive, negetave or zero.
-  *Return : always
+  *Return: Always 0.
   */
 int main(void)
 {
